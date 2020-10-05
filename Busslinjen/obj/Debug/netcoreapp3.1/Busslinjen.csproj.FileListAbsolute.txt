@@ -1,0 +1,13 @@
+C:\Users\denni\source\repos\Busslinjen\bin\Debug\netcoreapp3.1\Busslinjen.exe
+C:\Users\denni\source\repos\Busslinjen\bin\Debug\netcoreapp3.1\Busslinjen.deps.json
+C:\Users\denni\source\repos\Busslinjen\bin\Debug\netcoreapp3.1\Busslinjen.runtimeconfig.json
+C:\Users\denni\source\repos\Busslinjen\bin\Debug\netcoreapp3.1\Busslinjen.runtimeconfig.dev.json
+C:\Users\denni\source\repos\Busslinjen\bin\Debug\netcoreapp3.1\Busslinjen.dll
+C:\Users\denni\source\repos\Busslinjen\bin\Debug\netcoreapp3.1\Busslinjen.pdb
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.AssemblyInfo.cs
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.dll
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.pdb
+C:\Users\denni\source\repos\Busslinjen\obj\Debug\netcoreapp3.1\Busslinjen.genruntimeconfig.cache

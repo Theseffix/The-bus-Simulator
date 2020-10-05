@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busslinjen", "Busslinjen.csproj", "{39B2916D-F250-443F-A61B-44ADCA83BEE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B2916D-F250-443F-A61B-44ADCA83BEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B2916D-F250-443F-A61B-44ADCA83BEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B2916D-F250-443F-A61B-44ADCA83BEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B2916D-F250-443F-A61B-44ADCA83BEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5675F6A-DF50-42DC-B640-BADAC29AC872}
+	EndGlobalSection
+EndGlobal
